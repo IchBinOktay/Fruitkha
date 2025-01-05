@@ -1,0 +1,616 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\presentation\\wwwroot\\assets\\bootstrap\\css\\bootstrap.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\wwwroot\\assets\\bootstrap\\css\\bootstrap.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\presentation\\wwwroot\\admin-assets\\libs\\bootstrap\\scss\\_functions.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\wwwroot\\admin-assets\\libs\\bootstrap\\scss\\_functions.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\presentation\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\presentation\\areas\\admin\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\areas\\admin\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\presentation\\views\\news\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\news\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\presentation\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Data\\Migrations\\20250105055748_NewsUpdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Migrations\\20250105055748_NewsUpdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3B019C-C206-49F1-841C-0FCF906B6487}|Data\\Data.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\data\\repositories\\concrete\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3B019C-C206-49F1-841C-0FCF906B6487}|Data\\Data.csproj|solutionrelative:data\\repositories\\concrete\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1535D736-280A-41D4-A8B0-0B21D020BEB8}|Core\\Core.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\core\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1535D736-280A-41D4-A8B0-0B21D020BEB8}|Core\\Core.csproj|solutionrelative:core\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1535D736-280A-41D4-A8B0-0B21D020BEB8}|Core\\Core.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\core\\entities\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1535D736-280A-41D4-A8B0-0B21D020BEB8}|Core\\Core.csproj|solutionrelative:core\\entities\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\presentation\\wwwroot\\assets\\js\\comment.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\wwwroot\\assets\\js\\comment.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\presentation\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3B019C-C206-49F1-841C-0FCF906B6487}|Data\\Data.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\data\\repositories\\abstract\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3B019C-C206-49F1-841C-0FCF906B6487}|Data\\Data.csproj|solutionrelative:data\\repositories\\abstract\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\presentation\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\presentation\\wwwroot\\assets\\js\\basket.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\wwwroot\\assets\\js\\basket.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3B019C-C206-49F1-841C-0FCF906B6487}|Data\\Data.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\data\\repositories\\concrete\\basketproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3B019C-C206-49F1-841C-0FCF906B6487}|Data\\Data.csproj|solutionrelative:data\\repositories\\concrete\\basketproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1535D736-280A-41D4-A8B0-0B21D020BEB8}|Core\\Core.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1535D736-280A-41D4-A8B0-0B21D020BEB8}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C1E638-1B82-42F6-91CA-586D624B1070}|Business\\Business.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69C1E638-1B82-42F6-91CA-586D624B1070}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\presentation\\areas\\admin\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\areas\\admin\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3B019C-C206-49F1-841C-0FCF906B6487}|Data\\Data.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3B019C-C206-49F1-841C-0FCF906B6487}|Data\\Data.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C1E638-1B82-42F6-91CA-586D624B1070}|Business\\Business.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\business\\services\\concrete\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C1E638-1B82-42F6-91CA-586D624B1070}|Business\\Business.csproj|solutionrelative:business\\services\\concrete\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3B019C-C206-49F1-841C-0FCF906B6487}|Data\\Data.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\data\\repositories\\concrete\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3B019C-C206-49F1-841C-0FCF906B6487}|Data\\Data.csproj|solutionrelative:data\\repositories\\concrete\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3B019C-C206-49F1-841C-0FCF906B6487}|Data\\Data.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F3B019C-C206-49F1-841C-0FCF906B6487}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\presentation\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C1E638-1B82-42F6-91CA-586D624B1070}|Business\\Business.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\business\\services\\concrete\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C1E638-1B82-42F6-91CA-586D624B1070}|Business\\Business.csproj|solutionrelative:business\\services\\concrete\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\presentation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C1E638-1B82-42F6-91CA-586D624B1070}|Business\\Business.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\business\\viewmodels\\product\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C1E638-1B82-42F6-91CA-586D624B1070}|Business\\Business.csproj|solutionrelative:business\\viewmodels\\product\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C1E638-1B82-42F6-91CA-586D624B1070}|Business\\Business.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\business\\services\\abstract\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C1E638-1B82-42F6-91CA-586D624B1070}|Business\\Business.csproj|solutionrelative:business\\services\\abstract\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C1E638-1B82-42F6-91CA-586D624B1070}|Business\\Business.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\business\\utilities\\emailhandler\\concrete\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C1E638-1B82-42F6-91CA-586D624B1070}|Business\\Business.csproj|solutionrelative:business\\utilities\\emailhandler\\concrete\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\presentation\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA2C39F-A689-410F-AC9C-A5CEB8B8DCF6}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C1E638-1B82-42F6-91CA-586D624B1070}|Business\\Business.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\business\\utilities\\emailhandler\\abstract\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C1E638-1B82-42F6-91CA-586D624B1070}|Business\\Business.csproj|solutionrelative:business\\utilities\\emailhandler\\abstract\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C1E638-1B82-42F6-91CA-586D624B1070}|Business\\Business.csproj|c:\\users\\oktay\\onedrive\\masa\u00FCst\u00FC\\fruikth-master\\business\\utilities\\file\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C1E638-1B82-42F6-91CA-586D624B1070}|Business\\Business.csproj|solutionrelative:business\\utilities\\file\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bootstrap.css.map",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\wwwroot\\assets\\bootstrap\\css\\bootstrap.css.map",
+              "RelativeDocumentMoniker": "Presentation\\wwwroot\\assets\\bootstrap\\css\\bootstrap.css.map",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\wwwroot\\assets\\bootstrap\\css\\bootstrap.css.map",
+              "RelativeToolTip": "Presentation\\wwwroot\\assets\\bootstrap\\css\\bootstrap.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWuAUAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-05T06:11:41.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_functions.scss",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\wwwroot\\admin-assets\\libs\\bootstrap\\scss\\_functions.scss",
+              "RelativeDocumentMoniker": "Presentation\\wwwroot\\admin-assets\\libs\\bootstrap\\scss\\_functions.scss",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\wwwroot\\admin-assets\\libs\\bootstrap\\scss\\_functions.scss",
+              "RelativeToolTip": "Presentation\\wwwroot\\admin-assets\\libs\\bootstrap\\scss\\_functions.scss",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2025-01-05T06:11:35.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Views\\News\\Details.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\News\\Details.cshtml",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Views\\News\\Details.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\News\\Details.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T06:10:58.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAowO0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T03:47:09.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Core\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Core\\Entities\\Comment.cs",
+              "RelativeToolTip": "Core\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T04:21:45.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Data\\Repositories\\Concrete\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Concrete\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Data\\Repositories\\Concrete\\CommentRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Concrete\\CommentRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAjwBgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T03:55:24.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T03:43:48.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "basket.js",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\wwwroot\\assets\\js\\basket.js",
+              "RelativeDocumentMoniker": "Presentation\\wwwroot\\assets\\js\\basket.js",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\wwwroot\\assets\\js\\basket.js",
+              "RelativeToolTip": "Presentation\\wwwroot\\assets\\js\\basket.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-05T03:49:35.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\News\\Index.cshtml",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\News\\Index.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T03:48:05.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "comment.js",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\wwwroot\\assets\\js\\comment.js",
+              "RelativeDocumentMoniker": "Presentation\\wwwroot\\assets\\js\\comment.js",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\wwwroot\\assets\\js\\comment.js",
+              "RelativeToolTip": "Presentation\\wwwroot\\assets\\js\\comment.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-05T04:45:31.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Core\\Entities\\News.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\News.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Core\\Entities\\News.cs",
+              "RelativeToolTip": "Core\\Entities\\News.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:48:56.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T04:04:50.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Areas\\Admin\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Areas\\Admin\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Areas\\Admin\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Areas\\Admin\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T04:18:57.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T10:05:10.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Views\\Basket\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Views\\Basket\\Index.cshtml",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Views\\Basket\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Views\\Basket\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T03:45:39.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Data\\Repositories\\Abstract\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Abstract\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Data\\Repositories\\Abstract\\ICommentRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Abstract\\ICommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:54:54.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BasketProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Data\\Repositories\\Concrete\\BasketProductRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Concrete\\BasketProductRepository.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Data\\Repositories\\Concrete\\BasketProductRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Concrete\\BasketProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T03:40:28.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-05T03:52:18.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Business.csproj",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Business\\Business.csproj",
+              "RelativeToolTip": "Business\\Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-05T03:52:19.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Areas\\Admin\\Views\\News\\Create.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Areas\\Admin\\Views\\News\\Create.cshtml",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Areas\\Admin\\Views\\News\\Create.cshtml",
+              "RelativeToolTip": "Presentation\\Areas\\Admin\\Views\\News\\Create.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T04:04:54.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Business\\Services\\Concrete\\BasketService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concrete\\BasketService.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Business\\Services\\Concrete\\BasketService.cs",
+              "RelativeToolTip": "Business\\Services\\Concrete\\BasketService.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T03:52:25.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAywCMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:58:29.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Data\\Repositories\\Concrete\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\Concrete\\BasketRepository.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Data\\Repositories\\Concrete\\BasketRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\Concrete\\BasketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T03:53:17.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-05T03:52:16.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "Presentation\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:23:50.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Business\\Utilities\\EmailHandler\\Concrete\\EmailService.cs",
+              "RelativeDocumentMoniker": "Business\\Utilities\\EmailHandler\\Concrete\\EmailService.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Business\\Utilities\\EmailHandler\\Concrete\\EmailService.cs",
+              "RelativeToolTip": "Business\\Utilities\\EmailHandler\\Concrete\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:29:19.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Business\\Utilities\\File\\FileService.cs",
+              "RelativeDocumentMoniker": "Business\\Utilities\\File\\FileService.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Business\\Utilities\\File\\FileService.cs",
+              "RelativeToolTip": "Business\\Utilities\\File\\FileService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:29:07.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Business\\Services\\Concrete\\AccountService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concrete\\AccountService.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Business\\Services\\Concrete\\AccountService.cs",
+              "RelativeToolTip": "Business\\Services\\Concrete\\AccountService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:28:45.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:17:55.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T06:57:47.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Business\\Utilities\\EmailHandler\\Abstract\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Business\\Utilities\\EmailHandler\\Abstract\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Business\\Utilities\\EmailHandler\\Abstract\\IEmailService.cs",
+              "RelativeToolTip": "Business\\Utilities\\EmailHandler\\Abstract\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:29:25.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Business\\ViewModels\\Product\\ProductCreateVM.cs",
+              "RelativeDocumentMoniker": "Business\\ViewModels\\Product\\ProductCreateVM.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Business\\ViewModels\\Product\\ProductCreateVM.cs",
+              "RelativeToolTip": "Business\\ViewModels\\Product\\ProductCreateVM.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:14:04.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Presentation\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:52:53.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Business\\Services\\Abstract\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Abstract\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Business\\Services\\Abstract\\IAccountService.cs",
+              "RelativeToolTip": "Business\\Services\\Abstract\\IAccountService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:01:06.032Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 27,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250105055748_NewsUpdated.cs",
+              "DocumentMoniker": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Data\\Migrations\\20250105055748_NewsUpdated.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250105055748_NewsUpdated.cs",
+              "ToolTip": "C:\\Users\\oktay\\OneDrive\\Masa\u00FCst\u00FC\\Fruikth-master\\Data\\Migrations\\20250105055748_NewsUpdated.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250105055748_NewsUpdated.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T05:57:48.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
